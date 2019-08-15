@@ -2,7 +2,7 @@ package main
 
 import (
 	"context"
-	"heatbeat/pkg/aws"
+	"heartbeat/pkg/aws"
 
 	"github.com/aws/aws-lambda-go/lambda"
 )

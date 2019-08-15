@@ -2,7 +2,8 @@ package main
 
 import (
 	"fmt"
-	"heatbeat/cmd"
+	"heartbeat/cmd"
+
 	"os"
 	"runtime"
 )

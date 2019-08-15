@@ -1,7 +1,7 @@
 package cmd
 
 import (
-	"heatbeat/pkg/aws"
+	"heartbeat/pkg/aws"
 
 	"github.com/spf13/cobra"
 )

@@ -2,7 +2,7 @@ package aws
 
 import (
 	"fmt"
-	"heatbeat/pkg/hooks"
+	"heartbeat/pkg/hooks"
 	"os"
 	"strconv"
 	"strings"
