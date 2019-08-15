@@ -1,0 +1,14 @@
+# vscode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# Mac
+.DS_Store
+
+# Go
+vendor
+heartbeat*
+*.zip
